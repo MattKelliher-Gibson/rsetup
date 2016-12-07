@@ -1,0 +1,15 @@
+Package: rsetup
+Type: Package
+Title: Create an Initial .R Setup File
+Version: 0.0.1
+Authors@R: person("Kelliher-Gibson", "Matthew", email = "m.kelliher-gibson@gordian.com",
+  role = c("aut", "cre"))
+Description: More about what it does (maybe more than one line)
+Depends:
+  R (>= 3.3.1)
+Imports:
+  readr
+Remotes:
+  MattKelliher-Gibson/prepr
+License: What license is it under?
+LazyData: TRUE
