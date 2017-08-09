@@ -8,6 +8,7 @@ create_setup <- function() {
   i.options <- c("#############", "#I. Options #", "#############", "",
                  "#A. Memory Size", "", "\tmemory.limit(size = NA)", "",
                  "#B. stringsAsFactors", "", "\toptions(stringsAsFactors = FALSE)", "",
+                 "#C. Functions", "", "\tsource('./Code/R/P005_Functions.R')", "")
 
   ii.packages <- c("###############", "#II. Packages #", "###############\n",
                    "#A. prepr\n", "\tlibrary(prepr)\n",
