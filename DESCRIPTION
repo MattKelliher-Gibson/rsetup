@@ -2,7 +2,7 @@ Package: rsetup
 Type: Package
 Title: Create an Initial .R Setup File
 Version: 0.0.1
-Authors@R: person("Kelliher-Gibson", "Matthew", email = "m.kelliher-gibson@gordian.com",
+Authors@R: person("Kelliher-Gibson", "Matthew", email = "mkg@mattkellihergibson.com",
   role = c("aut", "cre"))
 Description: More about what it does (maybe more than one line)
 Depends:
